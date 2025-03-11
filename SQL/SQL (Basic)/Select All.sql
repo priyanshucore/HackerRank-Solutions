@@ -1,0 +1,6 @@
+/*
+MySQL
+*/
+
+SELECT *
+FROM CITY;
