@@ -1,0 +1,8 @@
+/*
+MySQL
+*/
+
+SELECT
+    CITY,
+    STATE
+FROM STATION;
